@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Empowering Your Vision with Limitless Creativity and Precision",
+        "title": "Innovate Without Boundaries"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Empowering Your Vision with Limitless Creativity and Precision",
+        "title": "Innovate Without Boundaries"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Empowering Your Vision with Limitless Creativity and Precision",
+        "title": "Innovate Without Boundaries"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Empowering Your Vision with Limitless Creativity and Precision",
+        "title": "Innovate Without Boundaries"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Empowering Your Vision with Limitless Creativity and Precision",
+        "title": "Innovate Without Boundaries"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Empowering Your Vision with Limitless Creativity and Precision",
+        "title": "Innovate Without Boundaries"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Empowering Your Vision with Limitless Creativity and Precision",
+        "title": "Innovate Without Boundaries"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Empowering Your Vision with Limitless Creativity and Precision",
+        "title": "Innovate Without Boundaries"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Innovate Without Boundaries",
+  "subtitle": "Empowering Your Vision with Limitless Creativity and Precision"
+}
